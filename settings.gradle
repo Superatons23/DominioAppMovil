@@ -1,0 +1,3 @@
+include ':DominioAppMovil'
+include ':app'
+rootProject.name = "DominioAppMovil"
